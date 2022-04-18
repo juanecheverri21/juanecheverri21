@@ -1,0 +1,58 @@
+Feature: buy a product in the falabella application
+
+  @Smoke
+  Scenario: the categories tab is present
+    Given the user is in the falabella application
+    Then  the user should see the button Categorías
+
+  @Product
+  Scenario Outline: the total price in the bag is the corresponding
+    Given the user is in the falabella application
+    When the user searches for a product
+      | product   |
+      | <product> |
+    And the user selects a product
+    And the user chooses the dispatch options
+      | region   | city   | commune   | address   | complement   |
+      | <region> | <city> | <commune> | <address> | <complement> |
+    Then the user should see that the price corresponds to the product selected plus the shipping price
+    Examples:
+      | product        | region    | city        | commune     | address              | complement        |
+      | televisor      | Antioquia | Itagui      | Itagui      | Calle 25a # 50b - 05 | Cedros de Badajoz |
+      | colchon        | antioquia | la estrella | la estrella | Calle 78Sur # 50f 41 | Bosques del Pinar |
+      | celular xiaomi | antioquia | medellin    | medellin    | 123456789            | 1235854           |
+
+  @Multiple
+  Scenario Outline: Add quantity of products exceeding the stock
+    Given the user is in the falabella application
+    When the user searches for a product
+      | product   |
+      | <product> |
+    And user enters multiple products
+    Then the user should see an informative messageLa cantidad ingresada excede el stock del producto.
+    Examples:
+      | product           |
+      | play              |
+      | televisor lg |
+      | vajilla           |
+
+  @Products
+  Scenario Outline: various products in the shopping bag
+    Given the user is in the falabella application
+    When the user searches for a product
+      | product  |
+      | <camara> |
+    And user enters 2 products
+    And the user chooses the dispatch options
+      | region   | city   | commune   | address   | complement   |
+      | <region> | <city> | <commune> | <address> | <complement> |
+    Then the user should see that the price corresponds to the number of products selected plus the shipping price
+    Examples:
+      | region       | city   | commune | address  | complement |
+      | Cundinamarca | Bogota | Bogota  | 123456 | 6757jih+++ |
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="buy a product in the falabella application" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-18T13:39:56" hostname="F8X1M63" time="53.392">
+  <properties/>
+  <testcase name="various products in the shopping bag" classname="buy a product in the falabella application" time="53.392"/>
+  <system-out><![CDATA[Precio unitario1999900
+:precio envio7490
+precio final4007290
+cantidad de productos     2
+precio producto      1999900
+Precio de envio   7490
+Precio final    4007290
+Suma de los precios   4007290
+]]></system-out>
+  <system-err><![CDATA[Apr 18, 2022 8:39:56 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875}) on port 7594
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1650289198.797][WARNING]: This version of ChromeDriver has not been tested with Chrome version 100.
+Apr 18, 2022 8:39:58 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
