@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e5e3f2b-d812-4056-be6f-2d039baaa0ef" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/RetoSistecredito_falabella/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/RetoSistecredito_falabella/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetoSistecredito_falabella/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/RetoSistecredito_falabella/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetoSistecredito_falabella/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/RetoSistecredito_falabella/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetoSistecredito_falabella/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/RetoSistecredito_falabella/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetoSistecredito_falabella/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/RetoSistecredito_falabella/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetoSistecredito_falabella/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/RetoSistecredito_falabella/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetoSistecredito_falabella/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/RetoSistecredito_falabella/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetoSistecredito_falabella/build/reports/tests/test/classes/buy#20a#20product#20in#20the#20falabella#20application.html" beforeDir="false" afterPath="$PROJECT_DIR$/RetoSistecredito_falabella/build/reports/tests/test/classes/buy#20a#20product#20in#20the#20falabella#20application.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetoSistecredito_falabella/build/reports/tests/test/classes/sistecredito.retofalabella.runners.ProductShopping.html" beforeDir="false" afterPath="$PROJECT_DIR$/RetoSistecredito_falabella/build/reports/tests/test/classes/sistecredito.retofalabella.runners.ProductShopping.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetoSistecredito_falabella/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/RetoSistecredito_falabella/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetoSistecredito_falabella/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/RetoSistecredito_falabella/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetoSistecredito_falabella/build/reports/tests/test/packages/sistecredito.retofalabella.runners.html" beforeDir="false" afterPath="$PROJECT_DIR$/RetoSistecredito_falabella/build/reports/tests/test/packages/sistecredito.retofalabella.runners.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetoSistecredito_falabella/build/test-results/test/TEST-buy#20a#20product#20in#20the#20falabella#20application.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RetoSistecredito_falabella/build/test-results/test/TEST-buy#20a#20product#20in#20the#20falabella#20application.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetoSistecredito_falabella/build/test-results/test/TEST-sistecredito.retofalabella.runners.ProductShopping.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RetoSistecredito_falabella/build/test-results/test/TEST-sistecredito.retofalabella.runners.ProductShopping.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetoSistecredito_falabella/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/RetoSistecredito_falabella/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetoSistecredito_falabella/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/RetoSistecredito_falabella/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetoSistecredito_falabella/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/RetoSistecredito_falabella/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetoSistecredito_falabella/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/RetoSistecredito_falabella/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetoSistecredito_falabella/target/site/serenity/SERENITY-JUNIT-bd3831c8021f37b0e94dea95b605ba0288d2930bfbd4970f0b8e0be1e33eb004.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RetoSistecredito_falabella/target/site/serenity/SERENITY-JUNIT-bd3831c8021f37b0e94dea95b605ba0288d2930bfbd4970f0b8e0be1e33eb004.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetoSistecredito_falabella/target/site/serenity/bd3831c8021f37b0e94dea95b605ba0288d2930bfbd4970f0b8e0be1e33eb004.html" beforeDir="false" afterPath="$PROJECT_DIR$/RetoSistecredito_falabella/target/site/serenity/bd3831c8021f37b0e94dea95b605ba0288d2930bfbd4970f0b8e0be1e33eb004.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetoSistecredito_falabella/target/site/serenity/bd3831c8021f37b0e94dea95b605ba0288d2930bfbd4970f0b8e0be1e33eb004.json" beforeDir="false" afterPath="$PROJECT_DIR$/RetoSistecredito_falabella/target/site/serenity/bd3831c8021f37b0e94dea95b605ba0288d2930bfbd4970f0b8e0be1e33eb004.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetoSistecredito_falabella/target/site/serenity/bd3831c8021f37b0e94dea95b605ba0288d2930bfbd4970f0b8e0be1e33eb004_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/RetoSistecredito_falabella/target/site/serenity/bd3831c8021f37b0e94dea95b605ba0288d2930bfbd4970f0b8e0be1e33eb004_screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetoSistecredito_falabella/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/RetoSistecredito_falabella/target/site/serenity/browser-chrome.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/RetoSistecredito_falabella">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/RetoSistecredito_falabella">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="RetoSistecredito_falabella" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="281GqhgPK59yVjNHWZWvKQBTDSv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle wrapper" />
+      <command value="gradle --wrapper.properties" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.RetoSistecredito_falabella">
+    <configuration name="ProductShopping" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/RetoSistecredito_falabella" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;sistecredito.retofalabella.runners.ProductShopping&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RetoSistecredito_falabella [wrapper]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/RetoSistecredito_falabella" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="wrapper" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RetoSistecredito_falabella" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/RetoSistecredito_falabella" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--wrapper.properties" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.RetoSistecredito_falabella" />
+        <item itemvalue="Gradle.RetoSistecredito_falabella [wrapper]" />
+        <item itemvalue="Gradle.ProductShopping" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e5e3f2b-d812-4056-be6f-2d039baaa0ef" name="Changes" comment="" />
+      <created>1650376871714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650376871714</updated>
+      <workItem from="1650376873726" duration="332000" />
+      <workItem from="1650468046362" duration="934000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
