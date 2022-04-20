@@ -19,3 +19,7 @@ dependencies {
     implementation('net.serenity-bdd:serenity-core:2.0.49')
     testImplementation('junit:junit:4.12')
 }
+
+tasks.named('wrapper') {
+    distributionType = Wrapper.DistributionType.ALL
+}
